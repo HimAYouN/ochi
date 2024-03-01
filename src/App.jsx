@@ -15,14 +15,14 @@ function App() {
 
   return (
     <div className='w-full min-h-screen text-white bg-zinc-900'>
-      {/* <Navbar/>
+      <Navbar/>
       <LandingPage/>
       <Marquee/>
-      <About/> */}
+      <About/>
       <Eyes/>
-      {/* <Featured/>
+      <Featured/>
       <Cards/>
-      <Footer/> */}
+      <Footer/>
     </div>
   )
 }
